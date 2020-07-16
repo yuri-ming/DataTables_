@@ -21,10 +21,10 @@
 ```
 ##### 3) html파일과 DataTables 파일을 `tomcat>webapps>ROOT`에 넣고 파일 실행! 
 ##### - 기본 예제 출력
-!(.\datatables.jpg)
+![datatables](https://user-images.githubusercontent.com/52196897/87638440-beda3680-c77e-11ea-8e85-77c465ba2ddc.jpg)
 ---
 #### 3. DataTables 관리하기
-!(.\function.jpg)
+![fucntion](https://user-images.githubusercontent.com/52196897/87638615-0a8ce000-c77f-11ea-9ef6-e1e785f053a3.jpg)
 ##### 1) 기능 숨기기
 ```HTML
 <script>
