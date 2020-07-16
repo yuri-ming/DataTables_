@@ -1,7 +1,7 @@
 # DataTables_
 #### DataTables 알기 
 #### 1. DataTables 란?
-##### - HTML의 <table>을 데이터 그리드 형식을 사용하기 위한 라이브러리
+##### - HTML의 `<table>`을 데이터 그리드 형식을 사용하기 위한 라이브러리
 ##### - 사용하기 위해 jQuery 필요
 ##### - 아파치 톰캣을 사용한 서버구현
 #### 2. DataTables 사용하기 - DataTables JS, CSS, jQuery 필요
